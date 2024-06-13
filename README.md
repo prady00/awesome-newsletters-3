@@ -26,3 +26,4 @@ A collection of awesome newsletters about software development
 * [NoSQL Weekly](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b) - Curated news and articles.
 * [DB Weekly](http://dbweekly.com/issues) - Awesome links about database world.
 * [KubeWeekly](https://us10.campaign-archive.com/home/?u=3885586f8f1175194017967d6&id=11c1b8bcb2) - Weekly about Kubernetes  curated by CNCF Team.
+* [Air Around AI](https://airaroundai.substack.com/) - Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
